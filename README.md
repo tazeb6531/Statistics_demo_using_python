@@ -2,4 +2,4 @@
 
 In this project I will go through the basic statistics that we implemets in Machine learning applications.
 
-.....
+.....!
